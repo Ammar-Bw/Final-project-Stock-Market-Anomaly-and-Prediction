@@ -10,3 +10,8 @@ Mahmoud ABDELRAHMAN,210203303, ELECTRİC AND ELECTRONİC ENG, data collection an
 
 
 
+code for Anomaly_S&P_500:
+https://colab.research.google.com/drive/1e3-Zhpqx5C1nY9Nv1pcDkyG-m_NUIdQX?usp=sharing
+
+code for Predictions_S&P_500:
+https://colab.research.google.com/drive/1Qr01_Jxc3x4UOwgmq-U6bdvrYklHVjuP?usp=sharing
